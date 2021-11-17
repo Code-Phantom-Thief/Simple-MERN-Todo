@@ -20,10 +20,15 @@ const PORT = process.env.PORT || 5000;
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(morgan('dev'));
-app.use(cors({
-    origin: ['http://localhost:3000'],
-    credentials: true
-}));
+app.use(
+	cors({
+		origin: [
+			'http://localhost:3000',
+			'https://simple-mern-todo.netlify.app',
+		],
+		credentials: true,
+	})
+);
 app.use(helmet());
 
 connectDB();
