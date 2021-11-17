@@ -1,0 +1,34 @@
+ul,
+li {
+	list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+a:visited {
+    color: inherit;
+}
+
+.nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 20px;
+	height: 7vh;
+}
+
+.nav__rightUl {
+	display: flex;
+	cursor: pointer;
+}
+
+.nav__rightUl > li {
+	margin: 0 50px;
+}
+
+@media only screen and (max-width:600px){
+    .nav__rightUl > li {
+	margin: 0 10px;
+}
+}
