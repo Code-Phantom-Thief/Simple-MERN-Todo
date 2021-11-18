@@ -22,9 +22,28 @@ But, this site's have all CRUD / Authentication / Authorization function .
 
 ### Warning:
 
+1: Authentication and Authorization
+
 This site's have not perfect authentication and authorization function.
 
 Because, I have a limited knowledge of authentication and authorization at the present time.
+
+
+2: Some Css mistakes
+
+I knew some CSS mistakes after deploy. 
+
+Probably, I will fix this mistakes in the future.
+
+
+3: Some Error messages does not apper.
+
+
+I knew this mistakes after deploy also.
+
+For example, if you enter more than 30 characters in title area, error messages will not show.
+
+Probably, I will fix this mistakes in the future also.
 
 
 ### Future Assignment:
@@ -47,13 +66,6 @@ This is the assignment for me in the future.
 ![App Screen Shot1](https://i.ibb.co/9TWT2Sv/login.png)
 
 ![App Screen Shot1](https://i.ibb.co/0hNZ1ck/mainscreen.png)
-
-### Introduction
-
-<h3 align="left">Created By:</h3>
-<p align="left"> <img src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="material-ui" width="40" height="40"/> <img src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.png" alt="dotenv" width="40" height="40"/> <a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.t8LlCJIKEWi5TeqGdfoxHQHaJ3%26pid%3DApi&f=1" alt="css" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p>
-
-
 
 
 Thank you for reading.
