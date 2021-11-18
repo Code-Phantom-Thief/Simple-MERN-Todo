@@ -2,6 +2,12 @@
 
 This is the simple MERN TodoList.
 
+If you would like to try this site's, you can use Test User.
+(Of course, you can create new user though)
+
+Test Username: mai
+Test Password: mai123
+
 ### NPM Packages:  
 
 FrontEnd: React / React-Toastify / React Router Dom V6 / Axios / React-Helmet
@@ -68,11 +74,6 @@ This is the assignment for me in the future.
 ![App Screen Shot1](https://i.ibb.co/0hNZ1ck/mainscreen.png)
 
 
-If you would like to try this site's, you can use Test User.
-(Of course, you can create new user though)
-
-Test Username: mai
-Test Password: mai123
 
 Thank you for reading.
 
